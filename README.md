@@ -33,5 +33,3 @@ Key libraries used include Pandas, Matplotlib, Seaborn, Scikit-Learn etc.
 - Optimal tree depth is around 3 for decision trees
 
 The analysis provides a blueprint for applying machine learning to medical diagnosis based on imaging data. Models can further be improved by techniques like hyperparameter tuning.
-
-Let me know if any other details need to be included!
